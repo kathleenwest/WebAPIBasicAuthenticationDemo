@@ -21,7 +21,7 @@ Client “Tester to Service” Windows Form Application Project “Client”
 ASP.Net Web API Service Application
 
 
-The ASP.Net Web Application template was used to create a simple Web API service and was hosted on my local development machine using IIS Express launched from Visual Studio. The API functions will be discussed after other topics. The project code is available on GitHub [here].
+The ASP.Net Web Application template was used to create a simple Web API service and was hosted on my local development machine using IIS Express launched from Visual Studio. The API functions will be discussed after other topics. 
 
 
 ---------------
